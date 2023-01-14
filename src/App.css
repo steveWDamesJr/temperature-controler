@@ -3,3 +3,13 @@
 }
 
 
+.app-container {
+  background-color: lightgreen;
+  height: 400px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.temperature-display {
+  
+}
